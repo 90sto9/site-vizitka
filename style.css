@@ -146,11 +146,14 @@
   line-height: 1.8;
 }
 
+.audio-holder {
+  width: 540px;
+}
+
 .audio-block {
   background-color: #242424;
   display: flex;
   margin-top: 61px;
-  width: 540px;
 }
 
 .audio-container {
