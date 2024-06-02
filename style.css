@@ -477,3 +477,14 @@
     font-size: 24px;
   }
 }
+
+.foter{
+  background-color: #D1D1D1;
+  padding: 60px 0;
+}
+.course-into-title{
+  font-weight: 600;
+  font-size: 70px;
+  color: #111;
+  padding-bottom: 20px;
+}
