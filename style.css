@@ -486,5 +486,41 @@
   font-weight: 600;
   font-size: 70px;
   color: #111;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
+}
+
+.footer-row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #8C8C8C;
+  padding: 30px 0;
+}
+.left-block{
+  display: flex;
+  align-items: center;
+}
+.course-number{
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  color: #939495;
+}
+.course-block{
+  margin-left: 60px;
+  line-height: 1.5;
+}
+.course-name{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  letter-spacing: 0.8px;
+  color: #000000;
+}
+.course-count{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  color: #939495;
 }
