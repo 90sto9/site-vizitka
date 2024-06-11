@@ -213,7 +213,7 @@
   justify-content: center;
   align-items: center;
   font-size: 1.25rem;
-  background-color: blue;
+  background-color: rgb(156, 0, 0);
   color: white;
   cursor: pointer;
 }
@@ -263,7 +263,7 @@
   padding-bottom: 20px;
   padding-left: 20px;
 }
-.img-card-1 {background-image: url(./img/card-1.png);}
+.img-card-1 {background-image: url(https://a-a-ah-ru.s3.amazonaws.com/uploads/items/170488/357666/large_a9a12d08-d62a-4608-b2f3-0a3115f6e845.jpeg);}
 
 .btn-time {
   background-color: #fff;
@@ -306,11 +306,9 @@
   letter-spacing: 0.5px;
 }
 
-.img-card-2 {background-image: url(./img/card-2.png);}
+.img-card-2 {background-image: url(https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d3/69/a1/d369a115-b1e9-f2cf-cc92-32030f6040da/198342333273_cover.jpg/316x316bb.webp);}
 
-.img-card-3 {background-image: url(./img/card-3.png);}
 
-.img-card-4 {background-image: url(./img/card-4.png);}
 
 /* FOOTER */
 
